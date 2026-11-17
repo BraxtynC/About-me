@@ -38,3 +38,15 @@ body{
 .project-box p {
     color: #14532d;
 }
+
+button {
+    background-color: pink;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 4px;
+    height: 30px;
+    width: 80px;
+    color:  rgb(214, 147, 158);
+    font-size: 5px;
+    cursor: pointer;
+}
